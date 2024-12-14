@@ -10,5 +10,5 @@ nltk
 qalsadi
 google-generativeai
 speechrecognition
-
+pydub
 
