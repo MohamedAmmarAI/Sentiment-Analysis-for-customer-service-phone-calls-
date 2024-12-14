@@ -9,4 +9,6 @@ transformers
 nltk
 qalsadi
 google-generativeai
+speechrecognition
+
 
