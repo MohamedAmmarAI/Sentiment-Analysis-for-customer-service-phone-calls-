@@ -13,4 +13,5 @@ speechrecognition
 pydub
 streamlit-chat
 langchain-google-genai
+langchain
 
