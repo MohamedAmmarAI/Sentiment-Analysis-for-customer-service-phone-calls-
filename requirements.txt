@@ -11,4 +11,4 @@ qalsadi
 google-generativeai
 speechrecognition
 pydub
-
+streamlit-chat
