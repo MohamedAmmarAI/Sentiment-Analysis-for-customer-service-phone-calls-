@@ -8,3 +8,5 @@ torch
 transformers
 nltk
 qalsadi
+google-generativeai
+
