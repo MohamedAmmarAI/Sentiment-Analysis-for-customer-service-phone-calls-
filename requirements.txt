@@ -1,1 +1,7 @@
 ffmpeg
+joblib
+scikit-learn
+seaborn
+streamlit
+matplotlib
+torch
