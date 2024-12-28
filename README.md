@@ -1,7 +1,9 @@
-# Sentiment-Analysis-for-customer-service-phone-calls-
----
+# SentiCall
+
 This project provides an interactive web application that allows users to analyze Arabic text sentiments, interact with a customer dataset chatbot, and visualize sentiment and customer feedback data using advanced machine learning models and visualization tools.
+
 ---
+
 ## Features
 
 ### 🎯 **Sentiment Analysis**
@@ -38,6 +40,7 @@ pip install -r requirements.txt
 ### Step 3: Set Up Environment
 - Place the pre-trained models (`vectorizer.joblib`, `logistic_model.joblib`, `bert_classifier.pth`) in the project directory.
 - Add the dataset files (`CompanyReviews.csv`, `cleaned_customer_calls.csv`) to the project root.
+
 ### Step 4: Run the Application
 Launch the Streamlit app using:
 ```bash
@@ -54,7 +57,7 @@ streamlit run app.py
 2. **Sentiment Analysis:**
    - Upload an Arabic audio file for transcription and sentiment analysis.
    - Select between BERT and MARBERT models for analysis.
-  
+   
 3. **Customer Dataset Chatbot:**
    - Interact with a chatbot trained on customer data.
    - Ask questions and get insights from the data.
@@ -80,7 +83,6 @@ streamlit run app.py
 ## Contributors
 
 - **Mahmoud Saad Mahmoud** - Artificial Intelligence Engineer  
-- **Mohamed Ahmed Ammar** - Data Scientisct & Machine Learning Engineer  
+- **Mohamed Ahmed Ammar** - Machine Learning Engineer  
 - **Shrouk Adel Mahmoud Mohamed** - Junior Machine Learning Engineer  
 - **Fatma Saeed Foaad** - Machine Learning Engineer  
-
