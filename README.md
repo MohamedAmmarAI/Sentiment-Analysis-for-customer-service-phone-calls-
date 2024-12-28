@@ -27,7 +27,7 @@ This project provides an interactive web application that allows users to analyz
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/MahmoudSaad21/SentiCall.git
+git clone https://github.com/MohamedAmmarAI/Sentiment-Analysis-for-customer-service-phone-calls-.git
 cd arabic-sentiment-chatbot
 ```
 
@@ -83,6 +83,6 @@ streamlit run app.py
 ## Contributors
 
 - **Mahmoud Saad Mahmoud** - Artificial Intelligence Engineer  
-- **Mohamed Ahmed Ammar** - Machine Learning Engineer  
+- **Mohamed Ahmed Ammar** - Data Scientist & Machine Learning Engineer  
 - **Shrouk Adel Mahmoud Mohamed** - Junior Machine Learning Engineer  
 - **Fatma Saeed Foaad** - Machine Learning Engineer  
