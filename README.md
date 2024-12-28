@@ -3,6 +3,15 @@
 This project provides an interactive web application that allows users to analyze Arabic text sentiments, interact with a customer dataset chatbot, and visualize sentiment and customer feedback data using advanced machine learning models and visualization tools.
 
 ---
+## Demo
+
+### 🎥 Recorded Demo
+Watch a detailed walkthrough of the application: [Video Link](https://drive.google.com/file/d/1KqUxCGcBncl_Xdo09xCOFROvJndDV4h9/view).
+
+### 📊 Tableau Dashboard
+Explore interactive customer feedback visualizations in the Tableau Dashboard: [Open Tableau Dashboard](https://public.tableau.com/app/profile/mohamed.ammar8125/viz/project_17320093001030/Dashboard1?publish=yes).
+
+---
 
 ## Features
 
